@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there, I'm Siong Yu / 尚育 / Steve👋
+
+![Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siongyu&theme=material_palenight)
+
+### My Holopin collection
+[![An image of @siongyu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siongyu)](https://holopin.io/@siongyu)
 
 <!--
 **Siongyu/SiongYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
