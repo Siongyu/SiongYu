@@ -1,5 +1,7 @@
 # Hi there, I'm Siong Yu / 尚育 / Steve👋
 
+![](https://komarev.com/ghpvc/?username=Siongyu)
+
 [![website](https://img.shields.io/badge/loosiongyu.me-white?style=flat&logo=appveyor&logoColor=%23f5faf6&logoSize=auto&label=Portfolio&labelColor=%23252e2d&color=%2300fff2
 )](https://www.loosiongyu.me)
 
